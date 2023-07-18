@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Sahil Salmanov
+# About me 
+My name is Sahil Salmanov, and I'm a JavaScript developer passionate about creating web applications and exploring new technologies. I enjoy working on frontend development, building intuitive user interfaces, and solving complex problems with clean and efficient code.
 
 
 # 💻 Tech Stack:
