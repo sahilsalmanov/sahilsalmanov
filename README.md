@@ -2,7 +2,7 @@
 # About me 
 My name is Sahil Salmanov, and I'm a Frontend developer passionate about creating web applications and exploring new technologies. I enjoy working on frontend development, building intuitive user interfaces, and solving complex problems with clean and efficient code.
 
-How to reach me # salmanovsahil7@gmail.com
+How to reach me salmanovsahil7@gmail.com
 
 
 # 💻 Tech Stack:
